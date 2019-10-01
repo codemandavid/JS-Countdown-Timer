@@ -1,0 +1,17 @@
+body{
+	background-color:grey;
+}
+		#container{
+			width : 400px;
+			margin: auto;
+			background-color:blue;
+
+		}
+		#time{
+			font-size: 100px;
+			margin: auto;
+			text-align: center;
+		}
+div{
+	text-align: center;
+}
